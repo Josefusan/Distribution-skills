@@ -99,6 +99,7 @@ Skills reference each other in their "Read next" sections — e.g. `distribution
 
 | File | Content |
 |---|---|
+| `sources/00-eps-x-signal-official.md` | EP's own "Download everything as Markdown" export from eptwts.com (693 lessons) — the canonical source |
 | `sources/01-business-strategy.md` … `08-tools-i-use.md` | Full text of the eight chapters of eptwts.com, scraped 2026-09-15 |
 | `sources/09-partners-program.md` | partners.eptwts.com application (useful as an operator-vetting template) |
 | `sources/10-twitter-eptwts.md` | @eptwts profile + a sample of recent and top posts (X throttled pagination; the knowledge base is itself the distillation of the full archive) |
